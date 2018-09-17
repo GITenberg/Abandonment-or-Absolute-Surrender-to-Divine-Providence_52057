@@ -1,0 +1,48 @@
+_repo: Abandonment-or-Absolute-Surrender-to-Divine-Providence_52057
+_version: 0.0.1
+alternative_title: Abandon à la providence divine. English
+contributor:
+  translator:
+    agent_name: McMahon, Ella
+    alias: MacMahon, Ella
+    gutenberg_agent_id: '46648'
+    url: http://www.gutenberg.org/2009/agents/46648
+creator:
+  author:
+    agent_name: Caussade, Jean Pierre de
+    aliases:
+    - Caussade, J.-P. de (Jean Pierre de)
+    - De Caussade, Jean Pierre
+    deathdate: 1751
+    gutenberg_agent_id: '46647'
+    url: http://www.gutenberg.org/2009/agents/46647
+  editor:
+    agent_name: Ramière, Henri
+    aliases:
+    - Remiere, J.
+    - Ramière, Enrique
+    - Ramière, Henry
+    - Remière, J.
+    - Ramiere, Henri
+    - Ramière, H. (Henri)
+    birthdate: 1821
+    deathdate: 1884
+    gutenberg_agent_id: '49198'
+    url: http://www.gutenberg.org/2009/agents/49198
+description: ''
+gutenberg_issued: '2016-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52057'
+  lccn: '37036744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual life -- Catholic Church'
+- !lcc 'BV'
+- !lcsh 'Mysticism -- Catholic Church'
+- GITenberg
+title: Abandonment; or, Absolute Surrender to Divine Providence
+url: http://www.gutenberg.org/ebooks/52057
