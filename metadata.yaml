@@ -1,5 +1,5 @@
 _repo: Abandonment-or-Absolute-Surrender-to-Divine-Providence_52057
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Abandon à la providence divine. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: MacMahon, Ella
     gutenberg_agent_id: '46648'
     url: http://www.gutenberg.org/2009/agents/46648
+covers:
+- cover_type: archival
+  image_path: 52057-h/images/cover.jpg
 creator:
   author:
     agent_name: Caussade, Jean Pierre de
@@ -30,6 +33,8 @@ creator:
     gutenberg_agent_id: '49198'
     url: http://www.gutenberg.org/2009/agents/49198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52057#Abandonment-or-Absolute-Surrender-to-Divine-Providence
 gutenberg_issued: '2016-05-13'
 gutenberg_type: Text
 identifiers:
